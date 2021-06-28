@@ -1,2 +1,3 @@
 # scripts
-个人自用脚本库
+## nettest.sh    
+vps回程检测    bash <(wget -qO- https://git.io/JJYE0)
